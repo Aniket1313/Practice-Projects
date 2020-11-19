@@ -48,3 +48,10 @@ print(password(5,num=True))
 print(password(10,num=True,strength='strong'))
 ##
 print(password(15,num=True,strength='very'))
+
+###
+OUTPUT
+
+j20sg
+kmDQ4TlWI5
+WHy69_9n{W~x<l8
